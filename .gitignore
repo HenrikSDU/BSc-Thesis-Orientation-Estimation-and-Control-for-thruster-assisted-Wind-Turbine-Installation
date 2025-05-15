@@ -4,7 +4,7 @@
 *.c
 *.h
 *.asv
-**/vids/
+**/Vids/
 **/ControlSystem_ert_rtw/
 **/SensorFusionCompare_ert_rtw/
 **/SystemIdentification/
