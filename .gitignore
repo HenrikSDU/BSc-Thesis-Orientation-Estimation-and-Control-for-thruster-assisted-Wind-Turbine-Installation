@@ -4,6 +4,7 @@
 *.c
 *.h
 *.asv
+**/vids/
 **/ControlSystem_ert_rtw/
 **/SensorFusionCompare_ert_rtw/
 **/slprj/
