@@ -1,0 +1,13 @@
+*.slxc
+*.elf
+*.mk
+*.c
+*.h
+*.asv
+**/ControlSystem_ert_rtw/
+**/SensorFusionCompare_ert_rtw/
+**/slprj/
+**/AttitudePlayground_ert_rtw/
+/git_public/SimulinkExperiments/vids
+git_public/SimulinkExperiments/BBB/udp_recieve_log6.mat
+git_public/SimulinkExperiments/BBB/udp_recieve_log7.mat
